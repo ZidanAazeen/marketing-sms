@@ -1,0 +1,307 @@
+/* Extra small devices (portrait phones, less than 576px */
+
+@media (max-width: 575.98px) {
+    .navbar img {
+        width: 80%;
+    }
+    .menu-custom ul li {
+        padding-right: 0px;
+    }
+    .menu-custom ul li a {
+        font-size: 14px;
+    }
+    .menu-custom button {
+        font-size: 14px;
+    }
+    #form-part {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+    .form-upper h2 {
+        font-size: 19px;
+    }
+    .form-upper h5 {
+        padding-top: 5px;
+        font-size: 11px;
+        padding-bottom: 20px;
+    }
+    .form-custom input::placeholder {
+        font-size: 8px;
+    }
+    .form-custom-2 input::placeholder {
+        font-size: 8px;
+    }
+    .form-details {
+        padding: 10px 10px;
+    }
+    .form-custom input {
+        padding: 14px 5px;
+    }
+    .form-custom-2 input {
+        padding: 14px 5px;
+        width: 133%;
+    }
+    .form-custom button {
+        padding: 9px 6px;
+        font-size: 7px;
+        margin-top: 5px;
+    }
+    .form-footer p {
+        font-size: 8px;
+    }
+    #promotion-part {
+        padding: 30px 0;
+    }
+    .promotion-details i {
+        font-size: 25px;
+    }
+    .promotion-details h4 {
+        font-size: 7px;
+        padding-top: 10px;
+        padding-bottom: 5px;
+    }
+    .promotion-details p {
+        font-size: 5px;
+    }
+    #details-part {
+        padding: 40px 0;
+    }
+    .details-content h2 {
+        font-size: 16px;
+        padding-bottom: 10px;
+    }
+    .details-content p {
+        font-size: 8px;
+        padding-bottom: 10px;
+    }
+    .details-content button {
+        font-size: 8px;
+    }
+    #discover-part {
+        padding: 20px 0;
+    }
+    .discover-content h3 {
+        font-size: 9px;
+        margin-top: 16px;
+    }
+    .discover-content button {
+        font-size: 4px;
+        padding: 6px 20px;
+        margin-left: 15px;
+    }
+    .slider-custom h4,
+    .slider-custom-rest h4 {
+        font-size: 12px;
+        padding-bottom: 25px;
+        line-height: 19px;
+    }
+    .carousel-indicators li,
+    .slider-custom-rest li {
+        width: 6px;
+        height: 6px;
+    }
+    .slider-custom i,
+    .slider-custom-rest i {
+        padding-bottom: 25px;
+        color: #117486;
+    }
+    #footer-area {
+        padding: 20px 0;
+    }
+    .footer-text h6 {
+        font-size: 8px;
+    }
+}
+
+
+/*  Small devices (landscape phones, 576px and up */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .menu-custom ul li {
+        padding-right: 0px;
+    }
+    .menu-custom ul li a {
+        font-size: 14px;
+    }
+    .menu-custom button {
+        font-size: 14px;
+    }
+    #form-part {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+    .form-upper h2 {
+        font-size: 25px;
+    }
+    .form-upper h5 {
+        padding-top: 10px;
+        font-size: 12px;
+        padding-bottom: 30px;
+    }
+    .form-custom input::placeholder {
+        font-size: 10px;
+    }
+    .form-custom-2 input::placeholder {
+        font-size: 10px;
+    }
+    .form-custom input {
+        padding: 14px 11px;
+    }
+    .form-custom-2 input {
+        padding: 14px 11px;
+        width: 122%;
+    }
+    .form-custom button {
+        padding: 9px 15px;
+        font-size: 12px;
+    }
+    .form-footer p {
+        font-size: 10px;
+    }
+    #promotion-part {
+        padding: 50px 0;
+    }
+    .promotion-details i {
+        font-size: 35px;
+    }
+    .promotion-details h4 {
+        font-size: 12px;
+        padding-top: 20px;
+        padding-bottom: 5px;
+    }
+    .promotion-details p {
+        font-size: 9px;
+    }
+    #details-part {
+        padding: 60px 0;
+    }
+    .details-content h2 {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+    .details-content p {
+        font-size: 10px;
+        padding-bottom: 15px;
+    }
+    .details-content button {
+        font-size: 12px;
+    }
+    #discover-part {
+        padding: 25px 0;
+    }
+    .discover-content h3 {
+        font-size: 12px;
+        margin-top: 16px;
+    }
+    .discover-content button {
+        font-size: 7px;
+        padding: 6px 20px;
+        margin-left: 15px;
+    }
+    .slider-custom h4,
+    .slider-custom-rest h4 {
+        font-size: 14px;
+        padding-bottom: 30px;
+        line-height: 24px;
+    }
+    .carousel-indicators li,
+    .slider-custom-rest li {
+        width: 6px;
+        height: 6px;
+    }
+    #footer-area {
+        padding: 25px 0;
+    }
+    .footer-text h6 {
+        font-size: 12px;
+    }
+}
+
+
+/* Medium devices (tablets, 768px and up */
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .menu-custom ul li {
+        padding-right: 0px;
+    }
+    .menu-custom ul li a {
+        font-size: 14px;
+    }
+    .menu-custom button {
+        font-size: 14px;
+    }
+    #form-part {
+        padding-top: 90px;
+        padding-bottom: 70px;
+    }
+    .form-upper h2 {
+        font-size: 30px;
+    }
+    .form-upper h5 {
+        font-size: 12px;
+    }
+    .form-custom button {
+        font-size: 12px;
+        padding: 13px 47px;
+    }
+    .promotion-details i {
+        font-size: 50px;
+    }
+    .promotion-details h4 {
+        font-size: 16px;
+    }
+    .promotion-details p {
+        font-size: 12px;
+    }
+    #details-part {
+        padding: 60px 0;
+    }
+    .details-content h2 {
+        font-size: 30px;
+        padding-bottom: 30px;
+    }
+    .details-content p {
+        font-size: 12px;
+    }
+    .discover-content h3 {
+        font-size: 20px;
+    }
+    .discover-content button {
+        font-size: 10px;
+        padding: 7px 34px;
+        margin-left: 15px;
+    }
+}
+
+
+/* Large devices (desktops, 992px and up */
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .menu-custom ul li {
+        padding-right: 0px;
+    }
+    .menu-custom ul li a {
+        font-size: 14px;
+    }
+    .menu-custom button {
+        font-size: 14px;
+    }
+    .form-upper h2 {
+        font-size: 45px;
+    }
+    .form-custom button {
+        font-size: 12px;
+        padding: 13px 61px;
+    }
+    .discover-content h3 {
+        font-size: 25px;
+    }
+    .discover-content button {
+        font-size: 13px;
+    }
+}
+
+
+/* Extra large devices (large desktops, 1200px and up */
+
+@media (min-width: 1200px) {}
